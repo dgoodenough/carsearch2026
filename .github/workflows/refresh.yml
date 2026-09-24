@@ -1,0 +1,72 @@
+name: Refresh the car board
+
+# Two ways to run:
+#   - on a schedule, twice a day
+#   - the "Run workflow" button, which works from a phone browser
+on:
+  schedule:
+    # 06:40 and 16:40 America/Los_Angeles. GitHub cron is UTC and does not
+    # follow DST, so these are PDT (UTC-7); they drift an hour in November.
+    - cron: "40 13 * * *"
+    - cron: "40 23 * * *"
+  workflow_dispatch:
+
+# The job commits the refreshed page and the tracking state back to the repo.
+permissions:
+  contents: write
+
+# Never let two runs interleave: they would both write state.json and the
+# second would clobber the first's day counts and price history.
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh
+        env:
+          AUTODEV_API_KEY: ${{ secrets.AUTODEV_API_KEY }}
+        run: |
+          if [ -z "$AUTODEV_API_KEY" ]; then
+            echo "::error::AUTODEV_API_KEY is not set. Add it under Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+          python ci_run.py
+
+      - name: Commit the refreshed board
+        run: |
+          git config user.name  "car-board bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs out/state.json out/api_usage.json cache/nhtsa.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "Refresh board $(date -u '+%Y-%m-%d %H:%M UTC')"
+            # A scheduled run and a manual one can finish seconds apart.
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push
+          fi
+
+      # Keeps a copy of every run's page, so a bad refresh is recoverable
+      # even after it has been committed.
+      - name: Keep a copy of this run's page
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: board-${{ github.run_number }}
+          path: |
+            docs/index.html
+            docs/listings.csv
+            out/last_error.log
+          retention-days: 14
+          if-no-files-found: ignore

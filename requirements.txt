@@ -1,0 +1,2 @@
+# Nothing outside the standard library is required.
+# Python 3.9+ (Anaconda's default python is fine).
