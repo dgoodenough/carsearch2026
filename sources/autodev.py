@@ -157,7 +157,7 @@ def _fallback_url(make, model):
     if cg:
         slug = f"{make}-{model}".replace(" ", "-")
         return (f"https://www.cargurus.com/Cars/l-Used-{slug}"
-                f"-San-Diego-{cg}_L2362?maxPrice=20000&maxMileage=150000"
+                f"-San-Diego-{cg}_L2362?maxPrice=20000&maxMileage=200000"
                 f"&distance=75&sortType=PRICE_ASC")
     return ""
 

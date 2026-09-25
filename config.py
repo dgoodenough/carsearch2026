@@ -13,7 +13,7 @@ RADIUS_MILES = 75      # covers SD county + Temecula/Riverside fringe
 PRICE_MIN = 3000
 PRICE_MAX = 20000
 PRICE_SWEET_SPOT = 10000   # capital outlay preference (a minor term now)
-MAX_MILES = 150000
+MAX_MILES = 200000
 
 # ---------------------------------------------------------------- the hold
 # This car is being bought to be sold again. That, not the sticker price,
@@ -37,8 +37,10 @@ COST_BAD = 9148          # renting instead. Score zero for failing to beat it.
 MIN_YEAR = 2015
 
 # Mileage the car must stay under at the END of the hold, not just today.
-# 150k is where instant-offer buyers start declining cars outright.
-MAX_MILES_AT_SALE = 150000
+# 150k is where instant-offer buyers start declining cars outright; cars
+# between 150k and 200k are kept on the board, and resale.py prices in the
+# harder sale, so they surface only when the price makes up for it.
+MAX_MILES_AT_SALE = 200000
 
 # ---------------------------------------------------------------- vehicles
 #
