@@ -36,11 +36,11 @@ def main():
     check("accepts Sea Glass Pearl", hf(color="Sea Glass Pearl", price=9000, miles=50000, body="hatchback") is None)
     check("rejects van", hf(color="White", price=9000, miles=50000, body="van"))
     check("rejects truck", hf(color="White", price=9000, miles=50000, body="truck"))
-    check("rejects 151k miles", hf(color="White", price=9000, miles=151000, body="sedan"))
-    # 149k passes the raw cap but crosses 150k during the hold, so it is out
-    check("rejects 149k (crosses 150k during the hold)",
-          hf(color="White", price=9000, miles=149000, body="sedan"))
-    check("accepts 141k miles", hf(color="White", price=9000, miles=141000, body="sedan") is None)
+    check("rejects 201k miles", hf(color="White", price=9000, miles=201000, body="sedan"))
+    # 199k passes the raw cap but crosses 200k during the hold, so it is out
+    check("rejects 199k (crosses 200k during the hold)",
+          hf(color="White", price=9000, miles=199000, body="sedan"))
+    check("accepts 191k miles", hf(color="White", price=9000, miles=191000, body="sedan") is None)
     check("rejects over budget", hf(color="White", price=20001, miles=50000, body="sedan"))
     check("rejects salvage", hf(color="White", price=9000, miles=50000, body="sedan", title_status="Salvage"))
     check("rejects rebuilt", hf(color="White", price=9000, miles=50000, body="sedan", title_status="rebuilt title"))
@@ -71,10 +71,10 @@ def main():
 
     print("resale / net cost:")
     import resale as rs
-    check("rejects a car that crosses 150k during the hold",
-          hf(color="White", price=9000, miles=145000, body="sedan"))
+    check("rejects a car that crosses 200k during the hold",
+          hf(color="White", price=9000, miles=195000, body="sedan"))
     check("accepts one that stays under",
-          hf(color="White", price=9000, miles=140000, body="sedan") is None)
+          hf(color="White", price=9000, miles=190000, body="sedan") is None)
     priv = sc.score_listing(L(price=11000, miles=80000, color="W", body="hatchback",
                               seller_type="private"), config, {}, {})
     deal = sc.score_listing(L(price=11000, miles=80000, color="W", body="hatchback",
