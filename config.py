@@ -305,8 +305,11 @@ CRAIGSLIST_TIME_BUDGET = 150      # seconds
 # throttles itself. out/api_usage.json is the enforced counter.
 MAX_API_CALLS_PER_MONTH = 800
 API_MIN_CALLS_PER_RUN = 6         # always enough for one page per group
-API_MAX_CALLS_PER_RUN = 60        # ceiling even when budget is plentiful
-API_MAX_PAGES_PER_GROUP = 20      # 20 listings/page; Honda alone needs ~18
+# None = no per-run throttle: every run fetches every page, spending as much
+# of the monthly allowance as that takes (~60 calls for a full sweep). Set
+# back to a number (e.g. 60) to spread the allowance across the month again.
+API_MAX_CALLS_PER_RUN = None
+API_MAX_PAGES_PER_GROUP = 50      # 20 listings/page; far above any group's size
 
 # ---------------------------------------------------------------- output
 TOP_N = None                    # None = show every listing that passes

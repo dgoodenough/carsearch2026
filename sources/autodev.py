@@ -217,6 +217,11 @@ def _calls_allowed(cfg):
     if remaining <= 0:
         return 0, used, cap
 
+    hi = getattr(cfg, "API_MAX_CALLS_PER_RUN", 60)
+    if hi is None:
+        # unthrottled: the whole remaining allowance is available this run
+        return remaining, used, cap
+
     today = datetime.date.today()
     if today.month == 12:
         last = datetime.date(today.year, 12, 31)
@@ -226,7 +231,6 @@ def _calls_allowed(cfg):
 
     share = remaining // days_left
     lo = getattr(cfg, "API_MIN_CALLS_PER_RUN", 6)
-    hi = getattr(cfg, "API_MAX_CALLS_PER_RUN", 60)
     # The floor must never outrank what is actually left -- with 3 calls
     # remaining a minimum of 6 would march straight through the cap.
     return min(remaining, max(lo, min(hi, share))), used, cap
