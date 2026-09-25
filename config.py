@@ -197,13 +197,18 @@ TARGETS = [
 # API queries are grouped so several models ride in one call -- auto.dev
 # accepts comma-separated makes and models. Keep groups to one or two makes
 # so a single group's result set stays paginatable.
+#
+# Order matters: smallest result sets first. A group that finishes early
+# hands its unused pages to the groups after it, so the big makes (Toyota,
+# Honda: ~300 listings each) go last and pick up the leftovers. With them
+# first they were cut off at 200 and a third of their listings never seen.
 QUERY_GROUPS = [
+    ["Subaru"],
+    ["Mazda"],
+    ["Nissan", "Lexus", "Volkswagen"],
+    ["Hyundai", "Kia"],
     ["Toyota"],
     ["Honda"],
-    ["Mazda"],
-    ["Hyundai", "Kia"],
-    ["Subaru"],
-    ["Nissan", "Lexus", "Volkswagen"],
 ]
 
 # ---------------------------------------------------------------- filters
@@ -299,7 +304,7 @@ CRAIGSLIST_TIME_BUDGET = 150      # seconds
 MAX_API_CALLS_PER_MONTH = 800
 API_MIN_CALLS_PER_RUN = 6         # always enough for one page per group
 API_MAX_CALLS_PER_RUN = 60        # ceiling even when budget is plentiful
-API_MAX_PAGES_PER_GROUP = 15      # 20 listings/page
+API_MAX_PAGES_PER_GROUP = 20      # 20 listings/page; Honda alone needs ~18
 
 # ---------------------------------------------------------------- output
 TOP_N = None                    # None = show every listing that passes

@@ -245,7 +245,9 @@ def _groups(cfg):
         out.append({
             "makes": makes,
             "models": models,
-            "year_lo": min(years) - 1,
+            # Never ask for years hard_filter will reject anyway -- every
+            # pre-MIN_YEAR row costs page space a keepable car could use.
+            "year_lo": max(min(years) - 1, getattr(cfg, "MIN_YEAR", 0)),
             "year_hi": max(years) + 1,
             "by_model": {t["model"].lower(): t for t in targets},
         })
