@@ -66,6 +66,12 @@ they're in UTC, and GitHub doesn't follow daylight saving.
 what passed, what's new, what got cut, the top ten, and how many auto.dev calls
 are left this month. The same call budget is shown on the board itself.
 
+**Adding a car the board can't see.** auto.dev doesn't carry every dealer. If
+you find a car elsewhere, open `manual.csv` on github.com, tap the pencil, add a
+line (year, make, model, trim, price, miles, color, dealer, city, link; numbers
+without commas), commit, then Run workflow. It gets scored and ranked with the
+rest, and it's never filtered out.
+
 **Shortlist.** Tick the boxes on rows worth seeing, hit **Shortlist**, then
 "Print / save as PDF". That's the sheet to hand someone or read in the car — it
 carries the asking price, the mileage, the walk-away ceiling and any warnings.

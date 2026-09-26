@@ -43,8 +43,8 @@ def gather(demo=False, snapshot=False):
         from sources import snapshot as snap
         return snap.fetch(config)
 
-    from sources import autodev, craigslist, snapshot as snap
-    for mod in (autodev, craigslist, snap):
+    from sources import autodev, craigslist, manual, snapshot as snap
+    for mod in (autodev, craigslist, snap, manual):
         try:
             listings.extend(mod.fetch(config))
         except Exception as exc:

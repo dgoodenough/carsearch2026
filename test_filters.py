@@ -188,6 +188,30 @@ def main():
         elif os.path.exists(ad.USAGE_PATH):
             os.remove(ad.USAGE_PATH)
 
+    print("manual.csv:")
+    import tempfile
+    from sources import manual
+    check("manual row skips the hard filters",
+          hf(source="manual", color="Barcelona Red", price=25000, miles=210000, body="van") is None)
+    real_path = manual.PATH
+    with tempfile.NamedTemporaryFile("w", suffix=".csv", delete=False) as fh:
+        fh.write("# a comment\n"
+                 "year,make,model,trim,price,miles,color,dealer,city,url,vin\n"
+                 "2017,Toyota,Corolla,LE,$14995,68000,White,Toyota of El Cajon,El Cajon,,\n"
+                 "2018,Honda,Fit,,$9,995,,,Lot,Chula Vista,,\n"
+                 "2016,Toyota,,,,,,,,,\n")
+    try:
+        manual.PATH = fh.name
+        rows = manual.fetch(config, verbose=False)
+    finally:
+        manual.PATH = real_path
+        os.remove(fh.name)
+    check("reads a good row, skips a comma-shifted one and an incomplete one",
+          len(rows) == 1)
+    check("parses price and dealer",
+          rows and rows[0].price == 14995 and rows[0].dealer == "Toyota of El Cajon")
+    check("the shipped template holds no cars", manual.fetch(config, verbose=False) == [])
+
     print()
     if FAILS:
         print(f"{len(FAILS)} FAILED: {FAILS}")

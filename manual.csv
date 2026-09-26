@@ -1,0 +1,9 @@
+# Cars to add by hand -- anything auto.dev doesn't carry.
+# One car per line, under the header row. Only year, make, model and price are
+# required; fill in what you know. The next run scores it with everything else.
+# Type numbers without commas: 14995, not 14,995.
+# Edit on github.com (pencil icon), commit, then Actions -> Run workflow.
+#
+# Example (delete the leading "# " to use it):
+# 2017,Toyota,Corolla,LE,14995,68000,White,Toyota of El Cajon,El Cajon,https://www.toyotaofelcajon.com/...,
+year,make,model,trim,price,miles,color,dealer,city,url,vin
