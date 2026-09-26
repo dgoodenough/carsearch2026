@@ -52,6 +52,10 @@
     [
      "2026-09-26",
      17010
+    ],
+    [
+     "2026-09-26",
+     17189
     ]
    ],
    "label": "2016 Toyota RAV4",
@@ -1050,6 +1054,10 @@
     [
      "2026-09-26",
      17380
+    ],
+    [
+     "2026-09-26",
+     17300
     ]
    ],
    "label": "2015 Toyota RAV4",
@@ -1140,9 +1148,13 @@
     [
      "2026-09-26",
      18055
+    ],
+    [
+     "2026-09-26",
+     17995
     ]
    ],
-   "label": "2022 Toyota Camry",
+   "label": "2022 Toyota Camry Hybrid",
    "url": "https://www.autolist.com/toyota-camry+hybrid#vin=4T1C31AK0NU574099"
   },
   "auto.dev:JTDEPMAE7N3003292": {
@@ -1172,6 +1184,10 @@
     [
      "2026-09-26",
      17060
+    ],
+    [
+     "2026-09-26",
+     16930
     ]
    ],
    "label": "2022 Toyota Corolla",
@@ -1217,6 +1233,10 @@
     [
      "2026-09-26",
      19083
+    ],
+    [
+     "2026-09-26",
+     18998
     ]
    ],
    "label": "2023 Toyota Corolla",
@@ -1253,6 +1273,10 @@
     [
      "2026-09-26",
      18621
+    ],
+    [
+     "2026-09-26",
+     18499
     ]
    ],
    "label": "2020 Toyota Corolla",
@@ -1432,6 +1456,10 @@
     [
      "2026-09-26",
      13642
+    ],
+    [
+     "2026-09-26",
+     13499
     ]
    ],
    "label": "2017 Toyota Camry",
@@ -1542,6 +1570,10 @@
     [
      "2026-09-26",
      10062
+    ],
+    [
+     "2026-09-26",
+     9799
     ]
    ],
    "label": "2016 Toyota Corolla",
@@ -1556,7 +1588,7 @@
      14495
     ]
    ],
-   "label": "2015 Toyota Camry",
+   "label": "2015 Toyota Camry Hybrid",
    "url": "https://www.carfax.com/vehicle/4T1BD1FK0FU168634"
   },
   "auto.dev:JTDKN3DU9F2001203": {
@@ -1599,6 +1631,10 @@
     [
      "2026-09-26",
      15985
+    ],
+    [
+     "2026-09-26",
+     15900
     ]
    ],
    "label": "2015 Toyota Camry",
@@ -1988,7 +2024,7 @@
   },
   "auto.dev:5YFEPMAE0MP244746": {
    "first_seen": "2026-09-20",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-20",
@@ -1996,8 +2032,7 @@
     ]
    ],
    "label": "2021 Toyota Corolla",
-   "url": "https://www.autolist.com/toyota-corolla#vin=5YFEPMAE0MP244746",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/toyota-corolla#vin=5YFEPMAE0MP244746"
   },
   "auto.dev:5YFBURHE7GP412286": {
    "first_seen": "2026-09-20",
@@ -2480,6 +2515,10 @@
     [
      "2026-09-26",
      19137
+    ],
+    [
+     "2026-09-26",
+     18999
     ]
    ],
    "label": "2021 Toyota Corolla",
@@ -2568,6 +2607,10 @@
     [
      "2026-09-26",
      19070
+    ],
+    [
+     "2026-09-26",
+     18990
     ]
    ],
    "label": "2019 Toyota RAV4",
@@ -2600,6 +2643,10 @@
     [
      "2026-09-26",
      19044
+    ],
+    [
+     "2026-09-26",
+     18964
     ]
    ],
    "label": "2021 Toyota Corolla",
@@ -2662,6 +2709,10 @@
     [
      "2026-09-26",
      16576
+    ],
+    [
+     "2026-09-26",
+     16491
     ]
    ],
    "label": "2018 Toyota RAV4",
@@ -2749,6 +2800,10 @@
     [
      "2026-09-26",
      16080
+    ],
+    [
+     "2026-09-26",
+     16834
     ]
    ],
    "label": "2015 Toyota RAV4",
@@ -2978,6 +3033,10 @@
     [
      "2026-09-26",
      15836
+    ],
+    [
+     "2026-09-26",
+     15756
     ]
    ],
    "label": "2022 Honda HR-V",
@@ -3014,6 +3073,10 @@
     [
      "2026-09-26",
      19129
+    ],
+    [
+     "2026-09-26",
+     18999
     ]
    ],
    "label": "2023 Honda CR-V",
@@ -3110,6 +3173,10 @@
     [
      "2026-09-26",
      15627
+    ],
+    [
+     "2026-09-26",
+     15540
     ]
    ],
    "label": "2020 Honda Civic",
@@ -3203,6 +3270,10 @@
     [
      "2026-09-26",
      19110
+    ],
+    [
+     "2026-09-26",
+     18988
     ]
    ],
    "label": "2021 Honda Accord",
@@ -3483,7 +3554,7 @@
   },
   "auto.dev:SHHFK7H40JU432237": {
    "first_seen": "2026-09-20",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-20",
@@ -3495,8 +3566,7 @@
     ]
    ],
    "label": "2018 Honda Civic",
-   "url": "https://temeculanissan.com/inventory/Used-2018-Honda-Civic-Sport-SHHFK7H40JU432237-1750",
-   "gone_since": "2026-09-26"
+   "url": "https://temeculanissan.com/inventory/Used-2018-Honda-Civic-Sport-SHHFK7H40JU432237-1750"
   },
   "auto.dev:SHHFK7H96JU426938": {
    "first_seen": "2026-09-20",
@@ -3513,6 +3583,10 @@
     [
      "2026-09-26",
      19080
+    ],
+    [
+     "2026-09-26",
+     19167
     ]
    ],
    "label": "2018 Honda Civic",
@@ -3545,9 +3619,13 @@
     [
      "2026-09-26",
      18137
+    ],
+    [
+     "2026-09-26",
+     17999
     ]
    ],
-   "label": "2021 Honda Civic",
+   "label": "2021 Honda Civic Hatchback",
    "url": "https://www.arianamotorsonline.com/pre-owned-cars/detail/x/1579946"
   },
   "auto.dev:19XFL2H8XPE016022": {
@@ -3559,7 +3637,7 @@
      18995
     ]
    ],
-   "label": "2023 Honda Civic",
+   "label": "2023 Honda Civic Hatchback",
    "url": "https://www.vanguardautosales.net/pre-owned-cars/detail/x/1584590"
   },
   "auto.dev:SHHFK7H73HU401083": {
@@ -3571,7 +3649,7 @@
      15995
     ]
    ],
-   "label": "2017 Honda Civic",
+   "label": "2017 Honda Civic Hatchback",
    "url": "https://www.vanguardautosales.net/pre-owned-cars/detail/x/1522721"
   },
   "auto.dev:3CZRU5H35JM721074": {
@@ -4158,6 +4236,10 @@
     [
      "2026-09-26",
      14488
+    ],
+    [
+     "2026-09-26",
+     14403
     ]
    ],
    "label": "2017 Honda Civic",
@@ -4342,6 +4424,10 @@
     [
      "2026-09-26",
      17782
+    ],
+    [
+     "2026-09-26",
+     17995
     ]
    ],
    "label": "2015 Honda CR-V",
@@ -4614,7 +4700,7 @@
      19999
     ]
    ],
-   "label": "2018 Honda Civic",
+   "label": "2018 Honda Civic Hatchback",
    "url": "https://www.eastcountypreowned.com/pre-owned-cars/detail/x/1569760"
   },
   "auto.dev:SHHFK7H5XJU414465": {
@@ -4644,9 +4730,13 @@
     [
      "2026-09-26",
      19680
+    ],
+    [
+     "2026-09-26",
+     19600
     ]
    ],
-   "label": "2018 Honda Civic",
+   "label": "2018 Honda Civic Hatchback",
    "url": "https://www.legacycarsinc.com/pre-owned-cars/detail/x/1557187"
   },
   "auto.dev:5J6RW2H25LL012889": {
@@ -4676,6 +4766,10 @@
     [
      "2026-09-26",
      19219
+    ],
+    [
+     "2026-09-26",
+     19134
     ]
    ],
    "label": "2020 Honda CR-V",
@@ -4708,9 +4802,13 @@
     [
      "2026-09-26",
      17796
+    ],
+    [
+     "2026-09-26",
+     17795
     ]
    ],
-   "label": "2017 Honda Civic",
+   "label": "2017 Honda Civic Hatchback",
    "url": "https://www.cbmmotors.com/pre-owned-cars/detail/x/1579199"
   },
   "auto.dev:2HKRW1H50NH401764": {
@@ -4740,6 +4838,10 @@
     [
      "2026-09-26",
      19698
+    ],
+    [
+     "2026-09-26",
+     19833
     ]
    ],
    "label": "2022 Honda CR-V",
@@ -4772,6 +4874,10 @@
     [
      "2026-09-26",
      13998
+    ],
+    [
+     "2026-09-26",
+     13918
     ]
    ],
    "label": "2019 Honda Insight",
@@ -4904,6 +5010,10 @@
     [
      "2026-09-26",
      14922
+    ],
+    [
+     "2026-09-26",
+     15885
     ]
    ],
    "label": "2017 Honda CR-V",
@@ -4923,7 +5033,7 @@
   },
   "auto.dev:2HKRW1H58NH400135": {
    "first_seen": "2026-09-20",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-20",
@@ -4935,8 +5045,7 @@
     ]
    ],
    "label": "2022 Honda CR-V",
-   "url": "https://www.carfax.com/vehicle/2HKRW1H58NH400135",
-   "gone_since": "2026-09-26"
+   "url": "https://www.carfax.com/vehicle/2HKRW1H58NH400135"
   },
   "auto.dev:7FARW5H38HE007006": {
    "first_seen": "2026-09-20",
@@ -5072,6 +5181,10 @@
     [
      "2026-09-26",
      18080
+    ],
+    [
+     "2026-09-26",
+     18167
     ]
    ],
    "label": "2019 Mazda CX-5",
@@ -5282,6 +5395,10 @@
     [
      "2026-09-26",
      15296
+    ],
+    [
+     "2026-09-26",
+     15295
     ]
    ],
    "label": "2016 Mazda CX-5",
@@ -5314,6 +5431,10 @@
     [
      "2026-09-26",
      15698
+    ],
+    [
+     "2026-09-26",
+     15618
     ]
    ],
    "label": "2020 Mazda CX-30",
@@ -5351,6 +5472,10 @@
     [
      "2026-09-26",
      9810
+    ],
+    [
+     "2026-09-26",
+     9989
     ]
    ],
    "label": "2015 Mazda CX-5",
@@ -5786,6 +5911,10 @@
     [
      "2026-09-26",
      13075
+    ],
+    [
+     "2026-09-26",
+     12518
     ]
    ],
    "label": "2022 Hyundai Elantra",
@@ -5830,6 +5959,10 @@
     [
      "2026-09-26",
      14876
+    ],
+    [
+     "2026-09-26",
+     14791
     ]
    ],
    "label": "2022 Hyundai Elantra",
@@ -5866,6 +5999,10 @@
     [
      "2026-09-26",
      19055
+    ],
+    [
+     "2026-09-26",
+     18770
     ]
    ],
    "label": "2023 Kia Forte",
@@ -5890,6 +6027,10 @@
     [
      "2026-09-26",
      18695
+    ],
+    [
+     "2026-09-26",
+     18152
     ]
    ],
    "label": "2023 Kia Forte",
@@ -5923,6 +6064,10 @@
     [
      "2026-09-26",
      16877
+    ],
+    [
+     "2026-09-26",
+     16725
     ]
    ],
    "label": "2023 Kia Forte",
@@ -5959,6 +6104,10 @@
     [
      "2026-09-26",
      19292
+    ],
+    [
+     "2026-09-26",
+     18352
     ]
    ],
    "label": "2023 Kia Forte",
@@ -6065,6 +6214,10 @@
     [
      "2026-09-26",
      14995
+    ],
+    [
+     "2026-09-26",
+     13995
     ]
    ],
    "label": "2022 Kia Forte",
@@ -6105,6 +6258,10 @@
     [
      "2026-09-26",
      13076
+    ],
+    [
+     "2026-09-26",
+     12991
     ]
    ],
    "label": "2023 Kia Forte",
@@ -6125,6 +6282,10 @@
     [
      "2026-09-26",
      12995
+    ],
+    [
+     "2026-09-26",
+     13167
     ]
    ],
    "label": "2020 Kia Forte",
@@ -6189,6 +6350,10 @@
     [
      "2026-09-26",
      9080
+    ],
+    [
+     "2026-09-26",
+     8995
     ]
    ],
    "label": "2020 Kia Forte",
@@ -6310,6 +6475,10 @@
     [
      "2026-09-26",
      17073
+    ],
+    [
+     "2026-09-26",
+     16988
     ]
    ],
    "label": "2021 Hyundai Elantra",
@@ -6399,6 +6568,10 @@
     [
      "2026-09-26",
      8642
+    ],
+    [
+     "2026-09-26",
+     8370
     ]
    ],
    "label": "2016 Hyundai Accent",
@@ -6439,6 +6612,10 @@
     [
      "2026-09-26",
      10713
+    ],
+    [
+     "2026-09-26",
+     10591
     ]
    ],
    "label": "2016 Hyundai Elantra",
@@ -6467,6 +6644,10 @@
     [
      "2026-09-26",
      12080
+    ],
+    [
+     "2026-09-26",
+     12167
     ]
    ],
    "label": "2019 Hyundai Elantra",
@@ -6590,7 +6771,7 @@
   },
   "auto.dev:KNDJ23AU2P7855768": {
    "first_seen": "2026-09-20",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-20",
@@ -6606,8 +6787,7 @@
     ]
    ],
    "label": "2023 Kia Soul",
-   "url": "https://www.autolist.com/kia-soul#vin=KNDJ23AU2P7855768",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/kia-soul#vin=KNDJ23AU2P7855768"
   },
   "auto.dev:KNDJ23AU8P7196420": {
    "first_seen": "2026-09-20",
@@ -6669,6 +6849,10 @@
     [
      "2026-09-26",
      7965
+    ],
+    [
+     "2026-09-26",
+     8015
     ]
    ],
    "label": "2016 Kia Soul",
@@ -6768,7 +6952,7 @@
   },
   "auto.dev:KNDEU2AA6P7373977": {
    "first_seen": "2026-09-20",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-20",
@@ -6784,8 +6968,7 @@
     ]
    ],
    "label": "2023 Kia Seltos",
-   "url": "https://www.autolist.com/kia-seltos#vin=KNDEU2AA6P7373977",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/kia-seltos#vin=KNDEU2AA6P7373977"
   },
   "auto.dev:KNDCB3LC2N5549465": {
    "first_seen": "2026-09-20",
@@ -6909,7 +7092,7 @@
   },
   "auto.dev:3KPF24AD9PE670998": {
    "first_seen": "2026-09-20",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-20",
@@ -6925,8 +7108,7 @@
     ]
    ],
    "label": "2023 Kia Forte",
-   "url": "https://www.autolist.com/kia-forte#vin=3KPF24AD9PE670998",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/kia-forte#vin=3KPF24AD9PE670998"
   },
   "auto.dev:3KPF24ADXLE232498": {
    "first_seen": "2026-09-20",
@@ -6999,6 +7181,10 @@
     [
      "2026-09-26",
      16084
+    ],
+    [
+     "2026-09-26",
+     15999
     ]
    ],
    "label": "2023 Hyundai Elantra",
@@ -7039,6 +7225,10 @@
     [
      "2026-09-26",
      17084
+    ],
+    [
+     "2026-09-26",
+     16999
     ]
    ],
    "label": "2020 Hyundai Veloster",
@@ -7243,7 +7433,7 @@
   },
   "auto.dev:KMHDH4AE9GU607556": {
    "first_seen": "2026-09-20",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-20",
@@ -7251,8 +7441,7 @@
     ]
    ],
    "label": "2016 Hyundai Elantra",
-   "url": "https://www.autolist.com/hyundai-elantra#vin=KMHDH4AE9GU607556",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/hyundai-elantra#vin=KMHDH4AE9GU607556"
   },
   "auto.dev:5NPD84LF4HH065417": {
    "first_seen": "2026-09-20",
@@ -7386,6 +7575,10 @@
     [
      "2026-09-26",
      16576
+    ],
+    [
+     "2026-09-26",
+     16491
     ]
    ],
    "label": "2021 Kia Seltos",
@@ -7414,6 +7607,10 @@
     [
      "2026-09-26",
      11075
+    ],
+    [
+     "2026-09-26",
+     10975
     ]
    ],
    "label": "2020 Kia Soul",
@@ -7482,6 +7679,10 @@
     [
      "2026-09-26",
      10080
+    ],
+    [
+     "2026-09-26",
+     9580
     ]
    ],
    "label": "2018 Hyundai Elantra",
@@ -7575,6 +7776,10 @@
     [
      "2026-09-26",
      14738
+    ],
+    [
+     "2026-09-26",
+     14638
     ]
    ],
    "label": "2020 Hyundai Elantra",
@@ -7825,6 +8030,10 @@
     [
      "2026-09-26",
      19222
+    ],
+    [
+     "2026-09-26",
+     19012
     ]
    ],
    "label": "2023 Hyundai Kona",
@@ -7997,6 +8206,10 @@
     [
      "2026-09-26",
      17500
+    ],
+    [
+     "2026-09-26",
+     17350
     ]
    ],
    "label": "2023 Kia Seltos",
@@ -8144,6 +8357,10 @@
     [
      "2026-09-26",
      16885
+    ],
+    [
+     "2026-09-26",
+     16384
     ]
    ],
    "label": "2023 Kia Forte",
@@ -8295,6 +8512,10 @@
     [
      "2026-09-26",
      17700
+    ],
+    [
+     "2026-09-26",
+     17200
     ]
    ],
    "label": "2023 Kia Forte",
@@ -8315,6 +8536,10 @@
     [
      "2026-09-26",
      17985
+    ],
+    [
+     "2026-09-26",
+     17484
     ]
    ],
    "label": "2023 Kia Forte",
@@ -8372,6 +8597,10 @@
     [
      "2026-09-26",
      19900
+    ],
+    [
+     "2026-09-26",
+     19500
     ]
    ],
    "label": "2023 Kia Forte",
@@ -8412,6 +8641,10 @@
     [
      "2026-09-26",
      17490
+    ],
+    [
+     "2026-09-26",
+     17405
     ]
    ],
    "label": "2023 Kia Soul",
@@ -8709,6 +8942,10 @@
     [
      "2026-09-26",
      16169
+    ],
+    [
+     "2026-09-26",
+     15999
     ]
    ],
    "label": "2020 Hyundai Elantra",
@@ -8771,6 +9008,10 @@
     [
      "2026-09-26",
      14844
+    ],
+    [
+     "2026-09-26",
+     13944
     ]
    ],
    "label": "2018 Subaru Impreza",
@@ -8791,6 +9032,10 @@
     [
      "2026-09-26",
      18787
+    ],
+    [
+     "2026-09-26",
+     19422
     ]
    ],
    "label": "2019 Subaru Crosstrek",
@@ -8835,6 +9080,10 @@
     [
      "2026-09-26",
      15812
+    ],
+    [
+     "2026-09-26",
+     15897
     ]
    ],
    "label": "2023 Subaru Impreza",
@@ -8875,6 +9124,10 @@
     [
      "2026-09-26",
      19913
+    ],
+    [
+     "2026-09-26",
+     19791
     ]
    ],
    "label": "2022 Subaru Impreza",
@@ -8931,7 +9184,7 @@
   },
   "auto.dev:4S3BWAB63N3010428": {
    "first_seen": "2026-09-20",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-20",
@@ -8939,8 +9192,7 @@
     ]
    ],
    "label": "2022 Subaru Legacy",
-   "url": "https://www.autolist.com/subaru-legacy#vin=4S3BWAB63N3010428",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/subaru-legacy#vin=4S3BWAB63N3010428"
   },
   "auto.dev:4S3BNAB64K3006712": {
    "first_seen": "2026-09-20",
@@ -9033,6 +9285,10 @@
     [
      "2026-09-26",
      19795
+    ],
+    [
+     "2026-09-26",
+     19797
     ]
    ],
    "label": "2019 Subaru Crosstrek",
@@ -9080,7 +9336,7 @@
   },
   "auto.dev:JF2GTHMC7M8286737": {
    "first_seen": "2026-09-20",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-20",
@@ -9100,8 +9356,7 @@
     ]
    ],
    "label": "2021 Subaru Crosstrek",
-   "url": "https://www.autolist.com/subaru-xv+crosstrek#vin=JF2GTHMC7M8286737",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/subaru-xv+crosstrek#vin=JF2GTHMC7M8286737"
   },
   "auto.dev:JF2GTAEC7KH275420": {
    "first_seen": "2026-09-20",
@@ -9162,6 +9417,10 @@
     [
      "2026-09-26",
      13900
+    ],
+    [
+     "2026-09-26",
+     12499
     ]
    ],
    "label": "2017 Subaru Crosstrek",
@@ -9222,6 +9481,10 @@
     [
      "2026-09-26",
      16580
+    ],
+    [
+     "2026-09-26",
+     16495
     ]
    ],
    "label": "2020 Subaru Impreza",
@@ -9262,6 +9525,10 @@
     [
      "2026-09-26",
      13996
+    ],
+    [
+     "2026-09-26",
+     13995
     ]
    ],
    "label": "2018 Subaru Crosstrek",
@@ -9390,6 +9657,10 @@
     [
      "2026-09-26",
      15080
+    ],
+    [
+     "2026-09-26",
+     14484
     ]
    ],
    "label": "2019 Subaru Crosstrek",
@@ -9640,6 +9911,10 @@
     [
      "2026-09-26",
      19385
+    ],
+    [
+     "2026-09-26",
+     19300
     ]
    ],
    "label": "2023 Volkswagen Jetta",
@@ -9676,6 +9951,10 @@
     [
      "2026-09-26",
      18685
+    ],
+    [
+     "2026-09-26",
+     18600
     ]
    ],
    "label": "2023 Volkswagen Jetta",
@@ -9704,6 +9983,10 @@
     [
      "2026-09-26",
      17685
+    ],
+    [
+     "2026-09-26",
+     17600
     ]
    ],
    "label": "2023 Volkswagen Jetta",
@@ -9744,6 +10027,10 @@
     [
      "2026-09-26",
      18601
+    ],
+    [
+     "2026-09-26",
+     18516
     ]
    ],
    "label": "2022 Volkswagen Jetta",
@@ -9804,6 +10091,10 @@
     [
      "2026-09-26",
      14685
+    ],
+    [
+     "2026-09-26",
+     14885
     ]
    ],
    "label": "2023 Volkswagen Jetta",
@@ -9896,6 +10187,10 @@
     [
      "2026-09-26",
      14810
+    ],
+    [
+     "2026-09-26",
+     14750
     ]
    ],
    "label": "2022 Nissan Kicks",
@@ -9928,6 +10223,10 @@
     [
      "2026-09-26",
      12862
+    ],
+    [
+     "2026-09-26",
+     12777
     ]
    ],
    "label": "2023 Nissan Versa",
@@ -10303,6 +10602,10 @@
     [
      "2026-09-26",
      7065
+    ],
+    [
+     "2026-09-26",
+     6995
     ]
    ],
    "label": "2015 Volkswagen Jetta",
@@ -10344,6 +10647,10 @@
     [
      "2026-09-26",
      16080
+    ],
+    [
+     "2026-09-26",
+     16167
     ]
    ],
    "label": "2023 Nissan Sentra",
@@ -10377,6 +10684,10 @@
     [
      "2026-09-26",
      17880
+    ],
+    [
+     "2026-09-26",
+     17967
     ]
    ],
    "label": "2023 Nissan Kicks",
@@ -10542,10 +10853,14 @@
     [
      "2026-09-26",
      15600
+    ],
+    [
+     "2026-09-26",
+     15515
     ]
    ],
    "label": "2022 Volkswagen Jetta",
-   "url": "https://aaronchevy.com/used/Volkswagen/2022-Volkswagen-Jetta-aac64900ac185fef39d0f00f42a8418f.htm"
+   "url": "https://aaronfordoflakeelsinore.com/used/Volkswagen/2022-Volkswagen-Jetta-aac64900ac185fef39d0f00f42a8418f.htm"
   },
   "auto.dev:3N1CN7AP5FL882333": {
    "first_seen": "2026-09-20",
@@ -10985,6 +11300,10 @@
     [
      "2026-09-26",
      14913
+    ],
+    [
+     "2026-09-26",
+     15048
     ]
    ],
    "label": "2023 Nissan Kicks",
@@ -11017,6 +11336,10 @@
     [
      "2026-09-26",
      17698
+    ],
+    [
+     "2026-09-26",
+     17833
     ]
    ],
    "label": "2023 Nissan Kicks",
@@ -11049,6 +11372,10 @@
     [
      "2026-09-26",
      17900
+    ],
+    [
+     "2026-09-26",
+     18035
     ]
    ],
    "label": "2022 Volkswagen Jetta",
@@ -11169,7 +11496,7 @@
   },
   "auto.dev:3N1AB7APXFY322942": {
    "first_seen": "2026-09-20",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-20",
@@ -11177,8 +11504,7 @@
     ]
    ],
    "label": "2015 Nissan Sentra",
-   "url": "https://www.autolist.com/nissan-sentra#vin=3N1AB7APXFY322942",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/nissan-sentra#vin=3N1AB7APXFY322942"
   },
   "auto.dev:3N1AB7AP3GY237135": {
    "first_seen": "2026-09-20",
@@ -11244,6 +11570,10 @@
     [
      "2026-09-26",
      15652
+    ],
+    [
+     "2026-09-26",
+     15848
     ]
    ],
    "label": "2022 Nissan Sentra",
@@ -11356,7 +11686,7 @@
   },
   "auto.dev:3VWC57BU4KM225204": {
    "first_seen": "2026-09-20",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-20",
@@ -11364,8 +11694,7 @@
     ]
    ],
    "label": "2019 Volkswagen Jetta",
-   "url": "https://www.autolist.com/volkswagen-jetta#vin=3VWC57BU4KM225204",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/volkswagen-jetta#vin=3VWC57BU4KM225204"
   },
   "auto.dev:3VWG57BU0KM204870": {
    "first_seen": "2026-09-20",
@@ -11591,7 +11920,7 @@
   },
   "auto.dev:3N1CP5DV1PL560993": {
    "first_seen": "2026-09-20",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-20",
@@ -11599,8 +11928,7 @@
     ]
    ],
    "label": "2023 Nissan Kicks",
-   "url": "https://www.mavericktoyota.com/used-Lemon+Grove-2023-Nissan-Kicks-SR-3N1CP5DV1PL560993",
-   "gone_since": "2026-09-26"
+   "url": "https://www.mavericktoyota.com/used-Lemon+Grove-2023-Nissan-Kicks-SR-3N1CP5DV1PL560993"
   },
   "auto.dev:3N1CN7AP2JL878667": {
    "first_seen": "2026-09-20",
@@ -12978,9 +13306,13 @@
     [
      "2026-09-26",
      19113
+    ],
+    [
+     "2026-09-26",
+     18991
     ]
    ],
-   "label": "2022 Toyota Corolla",
+   "label": "2022 Toyota Corolla Hybrid",
    "url": "https://toyotacarlsbad.com/certified/Toyota/2022-Toyota-Corolla-Hybrid-b22c572cac183ecbd73d4eaed3e5a917.htm"
   },
   "auto.dev:2T3ZFREV4HW399775": {
@@ -13034,6 +13366,10 @@
     [
      "2026-09-26",
      11413
+    ],
+    [
+     "2026-09-26",
+     11291
     ]
    ],
    "label": "2015 Toyota Corolla",
@@ -13089,7 +13425,7 @@
   },
   "auto.dev:4T1B11HK9KU756676": {
    "first_seen": "2026-09-22",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-22",
@@ -13097,8 +13433,7 @@
     ]
    ],
    "label": "2019 Toyota Camry",
-   "url": "https://www.carfax.com/vehicle/4T1B11HK9KU756676",
-   "gone_since": "2026-09-26"
+   "url": "https://www.carfax.com/vehicle/4T1B11HK9KU756676"
   },
   "auto.dev:4T1B61HK2JU039424": {
    "first_seen": "2026-09-22",
@@ -13184,6 +13519,10 @@
     [
      "2026-09-26",
      18117
+    ],
+    [
+     "2026-09-26",
+     18622
     ]
    ],
    "label": "2016 Toyota Camry",
@@ -13212,6 +13551,10 @@
     [
      "2026-09-26",
      18685
+    ],
+    [
+     "2026-09-26",
+     19500
     ]
    ],
    "label": "2020 Toyota Camry",
@@ -13329,6 +13672,10 @@
     [
      "2026-09-26",
      19547
+    ],
+    [
+     "2026-09-26",
+     19832
     ]
    ],
    "label": "2018 Honda CR-V",
@@ -13365,6 +13712,10 @@
     [
      "2026-09-26",
      17076
+    ],
+    [
+     "2026-09-26",
+     16991
     ]
    ],
    "label": "2019 Honda Civic",
@@ -13397,6 +13748,10 @@
     [
      "2026-09-26",
      19276
+    ],
+    [
+     "2026-09-26",
+     19398
     ]
    ],
    "label": "2018 Honda Civic",
@@ -13736,7 +14091,7 @@
   },
   "auto.dev:2HKRW1H83JH507775": {
    "first_seen": "2026-09-22",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-22",
@@ -13748,8 +14103,7 @@
     ]
    ],
    "label": "2018 Honda CR-V",
-   "url": "https://www.carfax.com/vehicle/2HKRW1H83JH507775",
-   "gone_since": "2026-09-26"
+   "url": "https://www.carfax.com/vehicle/2HKRW1H83JH507775"
   },
   "auto.dev:2HKRW1H52MH422291": {
    "first_seen": "2026-09-22",
@@ -13955,10 +14309,14 @@
     [
      "2026-09-26",
      16665
+    ],
+    [
+     "2026-09-26",
+     16750
     ]
    ],
    "label": "2023 Kia Forte",
-   "url": "https://www.autolist.com/kia-forte#vin=3KPF24AD2PE651998"
+   "url": "https://www.lithia.com/catcher.esl?vin=3KPF24AD2PE651998&utm_source=autolist&utm_medium=referral&utm_campaign=vdp_deep_link"
   },
   "auto.dev:5NPD84LF9KH434327": {
    "first_seen": "2026-09-22",
@@ -14543,7 +14901,7 @@
      13995
     ]
    ],
-   "label": "2021 Toyota Corolla",
+   "label": "2021 Toyota Corolla Hybrid",
    "url": "https://www.carfax.com/vehicle/JTDEAMDE5MJ031566"
   },
   "auto.dev:5YFS4RCE4LP030640": {
@@ -14662,6 +15020,10 @@
     [
      "2026-09-26",
      15121
+    ],
+    [
+     "2026-09-26",
+     14999
     ]
    ],
    "label": "2016 Toyota Corolla",
@@ -14936,6 +15298,10 @@
     [
      "2026-09-26",
      17121
+    ],
+    [
+     "2026-09-26",
+     16999
     ]
    ],
    "label": "2018 Mazda CX-5",
@@ -14981,7 +15347,7 @@
   },
   "auto.dev:KNDCR3LE2P5048169": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -14989,12 +15355,11 @@
     ]
    ],
    "label": "2023 Kia Niro",
-   "url": "https://dchkiaoftemecula.com/certified/Kia/2023-Kia-Niro-serving-temecula-ca-3a5fcbd6ac181da0dd1bebc3d91527c0.htm",
-   "gone_since": "2026-09-26"
+   "url": "https://dchkiaoftemecula.com/certified/Kia/2023-Kia-Niro-serving-temecula-ca-3a5fcbd6ac181da0dd1bebc3d91527c0.htm"
   },
   "auto.dev:3KPF54AD6PE525926": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -15002,8 +15367,7 @@
     ]
    ],
    "label": "2023 Kia Forte",
-   "url": "https://www.autolist.com/kia-forte#vin=3KPF54AD6PE525926",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/kia-forte#vin=3KPF54AD6PE525926"
   },
   "auto.dev:5NPD84LF0LH602356": {
    "first_seen": "2026-09-23",
@@ -15103,6 +15467,10 @@
     [
      "2026-09-26",
      12010
+    ],
+    [
+     "2026-09-26",
+     12189
     ]
    ],
    "label": "2018 Kia Niro",
@@ -15167,6 +15535,10 @@
     [
      "2026-09-26",
      14813
+    ],
+    [
+     "2026-09-26",
+     14948
     ]
    ],
    "label": "2023 Kia Forte",
@@ -15231,6 +15603,10 @@
     [
      "2026-09-26",
      19937
+    ],
+    [
+     "2026-09-26",
+     19659
     ]
    ],
    "label": "2022 Subaru Crosstrek",
@@ -15313,6 +15689,10 @@
     [
      "2026-09-26",
      10569
+    ],
+    [
+     "2026-09-26",
+     10654
     ]
    ],
    "label": "2016 Subaru Crosstrek",
@@ -15422,6 +15802,10 @@
     [
      "2026-09-26",
      18988
+    ],
+    [
+     "2026-09-26",
+     19488
     ]
    ],
    "label": "2023 Volkswagen Jetta",
@@ -15544,6 +15928,10 @@
     [
      "2026-09-26",
      17075
+    ],
+    [
+     "2026-09-26",
+     16990
     ]
    ],
    "label": "2018 Toyota Camry",
@@ -15720,6 +16108,10 @@
     [
      "2026-09-26",
      15168
+    ],
+    [
+     "2026-09-26",
+     16168
     ]
    ],
    "label": "2021 Toyota Corolla",
@@ -15727,7 +16119,7 @@
   },
   "auto.dev:JTNK4RBEXK3052162": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -15735,8 +16127,7 @@
     ]
    ],
    "label": "2019 Toyota Corolla",
-   "url": "https://www.autolist.com/toyota-corolla+hatchback#vin=JTNK4RBEXK3052162",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/toyota-corolla+hatchback#vin=JTNK4RBEXK3052162"
   },
   "auto.dev:5YFEPMAE8MP147939": {
    "first_seen": "2026-09-23",
@@ -15761,6 +16152,10 @@
     [
      "2026-09-26",
      17884
+    ],
+    [
+     "2026-09-26",
+     18080
     ]
    ],
    "label": "2020 Toyota Corolla",
@@ -15801,6 +16196,10 @@
     [
      "2026-09-26",
      18994
+    ],
+    [
+     "2026-09-26",
+     19700
     ]
    ],
    "label": "2020 Toyota Corolla",
@@ -15857,6 +16256,10 @@
     [
      "2026-09-26",
      19085
+    ],
+    [
+     "2026-09-26",
+     19934
     ]
    ],
    "label": "2023 Toyota Corolla",
@@ -15897,6 +16300,10 @@
     [
      "2026-09-26",
      18621
+    ],
+    [
+     "2026-09-26",
+     18499
     ]
    ],
    "label": "2016 Toyota Prius",
@@ -15929,7 +16336,7 @@
   },
   "auto.dev:JTDZN3EU6FJ032301": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -15937,8 +16344,7 @@
     ]
    ],
    "label": "2015 Toyota Prius v",
-   "url": "https://www.carfax.com/vehicle/JTDZN3EU6FJ032301",
-   "gone_since": "2026-09-26"
+   "url": "https://www.carfax.com/vehicle/JTDZN3EU6FJ032301"
   },
   "auto.dev:JTNKHMBX7K1042841": {
    "first_seen": "2026-09-23",
@@ -15954,7 +16360,7 @@
   },
   "auto.dev:NMTKHMBX8JR038124": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -15962,8 +16368,7 @@
     ]
    ],
    "label": "2018 Toyota C-HR",
-   "url": "https://www.carfax.com/vehicle/NMTKHMBX8JR038124",
-   "gone_since": "2026-09-26"
+   "url": "https://www.carfax.com/vehicle/NMTKHMBX8JR038124"
   },
   "auto.dev:5YFEPMAE7MP203420": {
    "first_seen": "2026-09-23",
@@ -16115,6 +16520,10 @@
     [
      "2026-09-26",
      13548
+    ],
+    [
+     "2026-09-26",
+     13633
     ]
    ],
    "label": "2017 Honda Civic",
@@ -16155,6 +16564,10 @@
     [
      "2026-09-26",
      15121
+    ],
+    [
+     "2026-09-26",
+     14999
     ]
    ],
    "label": "2017 Honda Accord",
@@ -16238,7 +16651,7 @@
   },
   "auto.dev:2HGFC2F56HH576247": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -16246,8 +16659,7 @@
     ]
    ],
    "label": "2017 Honda Civic",
-   "url": "https://www.carfax.com/vehicle/2HGFC2F56HH576247",
-   "gone_since": "2026-09-26"
+   "url": "https://www.carfax.com/vehicle/2HGFC2F56HH576247"
   },
   "auto.dev:2HGFC2F85KH588987": {
    "first_seen": "2026-09-23",
@@ -16351,7 +16763,7 @@
   },
   "auto.dev:1HGCV1F15JA083622": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -16363,12 +16775,11 @@
     ]
    ],
    "label": "2018 Honda Accord",
-   "url": "https://www.autolist.com/honda-accord#vin=1HGCV1F15JA083622",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/honda-accord#vin=1HGCV1F15JA083622"
   },
   "auto.dev:1HGCR2F5XGA236226": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -16376,8 +16787,7 @@
     ]
    ],
    "label": "2016 Honda Accord",
-   "url": "https://www.carfax.com/vehicle/1HGCR2F5XGA236226",
-   "gone_since": "2026-09-26"
+   "url": "https://www.carfax.com/vehicle/1HGCR2F5XGA236226"
   },
   "auto.dev:1HGCV1F50KA104042": {
    "first_seen": "2026-09-23",
@@ -16393,7 +16803,7 @@
   },
   "auto.dev:1HGCV3F59LA014336": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -16401,8 +16811,7 @@
     ]
    ],
    "label": "2020 Honda Accord",
-   "url": "https://www.carfax.com/vehicle/1HGCV3F59LA014336",
-   "gone_since": "2026-09-26"
+   "url": "https://www.carfax.com/vehicle/1HGCV3F59LA014336"
   },
   "auto.dev:1HGCV1F17KA163697": {
    "first_seen": "2026-09-23",
@@ -16490,7 +16899,7 @@
   },
   "auto.dev:19XFC1F89GE218606": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -16498,8 +16907,7 @@
     ]
    ],
    "label": "2016 Honda Civic",
-   "url": "https://www.autolist.com/honda-civic#vin=19XFC1F89GE218606",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/honda-civic#vin=19XFC1F89GE218606"
   },
   "auto.dev:2HGFC2F89KH562862": {
    "first_seen": "2026-09-23",
@@ -16515,7 +16923,7 @@
   },
   "auto.dev:2HGFC1E52JH709040": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -16523,8 +16931,7 @@
     ]
    ],
    "label": "2018 Honda Civic",
-   "url": "https://www.carfax.com/vehicle/2HGFC1E52JH709040",
-   "gone_since": "2026-09-26"
+   "url": "https://www.carfax.com/vehicle/2HGFC1E52JH709040"
   },
   "auto.dev:2HGFC2F50JH597309": {
    "first_seen": "2026-09-23",
@@ -16588,7 +16995,7 @@
   },
   "auto.dev:1HGCV3F18LA003275": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -16596,8 +17003,7 @@
     ]
    ],
    "label": "2020 Honda Accord",
-   "url": "https://www.legacycarsinc.com/pre-owned-cars/detail/x/1570286",
-   "gone_since": "2026-09-26"
+   "url": "https://www.legacycarsinc.com/pre-owned-cars/detail/x/1570286"
   },
   "auto.dev:1HGCV1F36KA170058": {
    "first_seen": "2026-09-23",
@@ -16764,7 +17170,7 @@
   },
   "auto.dev:3VWCB7BU5KM253148": {
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-23",
@@ -16772,8 +17178,7 @@
     ]
    ],
    "label": "2019 Volkswagen Jetta",
-   "url": "https://www.carfax.com/vehicle/3VWCB7BU5KM253148",
-   "gone_since": "2026-09-26"
+   "url": "https://www.carfax.com/vehicle/3VWCB7BU5KM253148"
   },
   "auto.dev:3N1CN7AP1GL880502": {
    "first_seen": "2026-09-23",
@@ -16923,6 +17328,10 @@
     [
      "2026-09-26",
      13010
+    ],
+    [
+     "2026-09-26",
+     12888
     ]
    ],
    "label": "2017 Honda Accord",
@@ -17083,6 +17492,10 @@
     [
      "2026-09-26",
      19948
+    ],
+    [
+     "2026-09-26",
+     19985
     ]
    ],
    "label": "2019 Honda Civic",
@@ -17111,6 +17524,10 @@
     [
      "2026-09-26",
      19850
+    ],
+    [
+     "2026-09-26",
+     19995
     ]
    ],
    "label": "2021 Honda Civic",
@@ -17118,7 +17535,7 @@
   },
   "auto.dev:1HGCV1F36MA042907": {
    "first_seen": "2026-09-24",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-24",
@@ -17126,12 +17543,11 @@
     ]
    ],
    "label": "2021 Honda Accord",
-   "url": "https://www.autolist.com/honda-accord#vin=1HGCV1F36MA042907",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/honda-accord#vin=1HGCV1F36MA042907"
   },
   "auto.dev:1HGCV1F45MA041451": {
    "first_seen": "2026-09-24",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-24",
@@ -17139,8 +17555,7 @@
     ]
    ],
    "label": "2021 Honda Accord",
-   "url": "https://powaycdjr.com/inventory/Used-2021-Honda-Accord-Sport_Special_Edition-1HGCV1F45MA041451-1770",
-   "gone_since": "2026-09-26"
+   "url": "https://powaycdjr.com/inventory/Used-2021-Honda-Accord-Sport_Special_Edition-1HGCV1F45MA041451-1770"
   },
   "auto.dev:1HGCV1F48LA101706": {
    "first_seen": "2026-09-24",
@@ -17369,6 +17784,10 @@
     [
      "2026-09-26",
      12076
+    ],
+    [
+     "2026-09-26",
+     11991
     ]
    ],
    "label": "2020 Kia Forte",
@@ -17389,6 +17808,10 @@
     [
      "2026-09-26",
      15871
+    ],
+    [
+     "2026-09-26",
+     16117
     ]
    ],
    "label": "2021 Kia Seltos",
@@ -17409,6 +17832,10 @@
     [
      "2026-09-26",
      10991
+    ],
+    [
+     "2026-09-26",
+     11991
     ]
    ],
    "label": "2016 Hyundai Veloster",
@@ -17561,6 +17988,10 @@
     [
      "2026-09-26",
      14055
+    ],
+    [
+     "2026-09-26",
+     15055
     ]
    ],
    "label": "2018 Mazda Mazda6",
@@ -17596,7 +18027,7 @@
   },
   "auto.dev:KM8K33A54LU410241": {
    "first_seen": "2026-09-24",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-24",
@@ -17616,12 +18047,11 @@
     ]
    ],
    "label": "2020 Hyundai Kona",
-   "url": "https://bmwencinitas.com/used/Hyundai/2020-Hyundai-Kona-ccfc5fc7ac185bc0410e180bae978b4a.htm",
-   "gone_since": "2026-09-26"
+   "url": "https://bmwencinitas.com/used/Hyundai/2020-Hyundai-Kona-ccfc5fc7ac185bc0410e180bae978b4a.htm"
   },
   "auto.dev:3KPF24AD7LE246259": {
    "first_seen": "2026-09-24",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-24",
@@ -17629,12 +18059,11 @@
     ]
    ],
    "label": "2020 Kia Forte",
-   "url": "https://www.autolist.com/kia-forte#vin=3KPF24AD7LE246259",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/kia-forte#vin=3KPF24AD7LE246259"
   },
   "auto.dev:KM8K62AA9JU081614": {
    "first_seen": "2026-09-24",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-24",
@@ -17642,12 +18071,11 @@
     ]
    ],
    "label": "2018 Hyundai Kona",
-   "url": "https://www.autolist.com/hyundai-kona#vin=KM8K62AA9JU081614",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/hyundai-kona#vin=KM8K62AA9JU081614"
   },
   "auto.dev:JF2GTAPC2NH268635": {
    "first_seen": "2026-09-24",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-24",
@@ -17671,12 +18099,11 @@
     ]
    ],
    "label": "2022 Subaru Crosstrek",
-   "url": "https://dchhondaoftemecula.com/used/Subaru/2022-Subaru-Crosstrek-for-sale-temecula-california-47ac63feac184f13fc02510b2ac360e7.htm",
-   "gone_since": "2026-09-26"
+   "url": "https://dchhondaoftemecula.com/used/Subaru/2022-Subaru-Crosstrek-for-sale-temecula-california-47ac63feac184f13fc02510b2ac360e7.htm"
   },
   "auto.dev:JF2GTAJC7JH295431": {
    "first_seen": "2026-09-24",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-24",
@@ -17684,12 +18111,11 @@
     ]
    ],
    "label": "2018 Subaru Crosstrek",
-   "url": "https://www.autolist.com/subaru-xv+crosstrek#vin=JF2GTAJC7JH295431",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/subaru-xv+crosstrek#vin=JF2GTAJC7JH295431"
   },
   "auto.dev:4S3GTAA63J3718382": {
    "first_seen": "2026-09-24",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-24",
@@ -17697,12 +18123,11 @@
     ]
    ],
    "label": "2018 Subaru Impreza",
-   "url": "https://www.autolist.com/subaru-impreza#vin=4S3GTAA63J3718382",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/subaru-impreza#vin=4S3GTAA63J3718382"
   },
   "auto.dev:JF1GPAY66G8219149": {
    "first_seen": "2026-09-24",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-24",
@@ -17710,12 +18135,11 @@
     ]
    ],
    "label": "2016 Subaru Impreza",
-   "url": "https://www.autolist.com/subaru-impreza#vin=JF1GPAY66G8219149",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/subaru-impreza#vin=JF1GPAY66G8219149"
   },
   "auto.dev:JF2GTAMC7KH208608": {
    "first_seen": "2026-09-24",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-24",
@@ -17723,8 +18147,7 @@
     ]
    ],
    "label": "2019 Subaru Crosstrek",
-   "url": "https://www.autolist.com/subaru-xv+crosstrek#vin=JF2GTAMC7KH208608",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/subaru-xv+crosstrek#vin=JF2GTAMC7KH208608"
   },
   "auto.dev:3N1CN8EV5PL834315": {
    "first_seen": "2026-09-24",
@@ -17905,6 +18328,10 @@
     [
      "2026-09-26",
      19146
+    ],
+    [
+     "2026-09-26",
+     19059
     ]
    ],
    "label": "2018 Honda Fit",
@@ -17912,7 +18339,7 @@
   },
   "auto.dev:KM8K12AA1KU269379": {
    "first_seen": "2026-09-25",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-25",
@@ -17920,12 +18347,11 @@
     ]
    ],
    "label": "2019 Hyundai Kona",
-   "url": "https://www.carfax.com/vehicle/KM8K12AA1KU269379",
-   "gone_since": "2026-09-26"
+   "url": "https://www.carfax.com/vehicle/KM8K12AA1KU269379"
   },
   "auto.dev:3KPF24AD7PE676041": {
    "first_seen": "2026-09-25",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-25",
@@ -17933,12 +18359,11 @@
     ]
    ],
    "label": "2023 Kia Forte",
-   "url": "https://www.carfax.com/vehicle/3KPF24AD7PE676041",
-   "gone_since": "2026-09-26"
+   "url": "https://www.carfax.com/vehicle/3KPF24AD7PE676041"
   },
   "auto.dev:KNDCB3LC7L5422126": {
    "first_seen": "2026-09-25",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-25",
@@ -17946,8 +18371,7 @@
     ]
    ],
    "label": "2020 Kia Niro",
-   "url": "https://www.car-nova.com/pre-owned-cars/detail/x/1587338",
-   "gone_since": "2026-09-26"
+   "url": "https://www.car-nova.com/pre-owned-cars/detail/x/1587338"
   },
   "auto.dev:3VWD17AJ8FM315517": {
    "first_seen": "2026-09-25",
@@ -17964,6 +18388,10 @@
     [
      "2026-09-26",
      9613
+    ],
+    [
+     "2026-09-26",
+     9491
     ]
    ],
    "label": "2015 Volkswagen Jetta",
@@ -17980,6 +18408,10 @@
     [
      "2026-09-26",
      16376
+    ],
+    [
+     "2026-09-26",
+     16498
     ]
    ],
    "label": "2017 Toyota Camry",
@@ -18020,6 +18452,10 @@
     [
      "2026-09-26",
      16900
+    ],
+    [
+     "2026-09-26",
+     17022
     ]
    ],
    "label": "2016 Toyota Corolla",
@@ -18036,6 +18472,10 @@
     [
      "2026-09-26",
      19998
+    ],
+    [
+     "2026-09-26",
+     18995
     ]
    ],
    "label": "2019 Toyota Camry",
@@ -18088,6 +18528,10 @@
     [
      "2026-09-26",
      19612
+    ],
+    [
+     "2026-09-26",
+     19490
     ]
    ],
    "label": "2019 Mazda CX-5",
@@ -18119,7 +18563,7 @@
   },
   "auto.dev:KMHLP4AG2PU564162": {
    "first_seen": "2026-09-25",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-25",
@@ -18127,12 +18571,11 @@
     ]
    ],
    "label": "2023 Hyundai Elantra",
-   "url": "https://www.autolist.com/hyundai-elantra#vin=KMHLP4AG2PU564162",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/hyundai-elantra#vin=KMHLP4AG2PU564162"
   },
   "auto.dev:KNDJ63AU3L7081223": {
    "first_seen": "2026-09-25",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-25",
@@ -18140,12 +18583,11 @@
     ]
    ],
    "label": "2020 Kia Soul",
-   "url": "https://www.autolist.com/kia-soul#vin=KNDJ63AU3L7081223",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/kia-soul#vin=KNDJ63AU3L7081223"
   },
   "auto.dev:3KPA24AD5LE335614": {
    "first_seen": "2026-09-25",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-25",
@@ -18153,12 +18595,11 @@
     ]
    ],
    "label": "2020 Kia Rio",
-   "url": "https://www.autolist.com/kia-rio#vin=3KPA24AD5LE335614",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/kia-rio#vin=3KPA24AD5LE335614"
   },
   "auto.dev:KM8K5CA52KU383291": {
    "first_seen": "2026-09-25",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-25",
@@ -18166,12 +18607,11 @@
     ]
    ],
    "label": "2019 Hyundai Kona",
-   "url": "https://www.autolist.com/hyundai-kona#vin=KM8K5CA52KU383291",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/hyundai-kona#vin=KM8K5CA52KU383291"
   },
   "auto.dev:4S3GTAN64H3731324": {
    "first_seen": "2026-09-25",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-25",
@@ -18179,12 +18619,11 @@
     ]
    ],
    "label": "2017 Subaru Impreza",
-   "url": "https://bmwencinitas.com/used/Subaru/2017-Subaru-Impreza-d4ecc16eac18230d1f9b854f3e2ed38e.htm",
-   "gone_since": "2026-09-26"
+   "url": "https://bmwencinitas.com/used/Subaru/2017-Subaru-Impreza-d4ecc16eac18230d1f9b854f3e2ed38e.htm"
   },
   "auto.dev:4S3BNAS60H3029218": {
    "first_seen": "2026-09-25",
-   "last_seen": "2026-09-25",
+   "last_seen": "2026-09-26",
    "prices": [
     [
      "2026-09-25",
@@ -18192,8 +18631,7 @@
     ]
    ],
    "label": "2017 Subaru Legacy",
-   "url": "https://www.autolist.com/subaru-legacy#vin=4S3BNAS60H3029218",
-   "gone_since": "2026-09-26"
+   "url": "https://www.autolist.com/subaru-legacy#vin=4S3BNAS60H3029218"
   },
   "auto.dev:3N1AB8CV7NY227660": {
    "first_seen": "2026-09-25",
@@ -18362,6 +18800,10 @@
     [
      "2026-09-26",
      9248
+    ],
+    [
+     "2026-09-26",
+     9078
     ]
    ],
    "label": "2017 Mazda Mazda3",
@@ -18466,6 +18908,10 @@
     [
      "2026-09-26",
      13055
+    ],
+    [
+     "2026-09-26",
+     12995
     ]
    ],
    "label": "2023 Hyundai Elantra",
@@ -18486,6 +18932,10 @@
     [
      "2026-09-26",
      9876
+    ],
+    [
+     "2026-09-26",
+     9920
     ]
    ],
    "label": "2021 Kia Seltos",
@@ -18574,6 +19024,10 @@
     [
      "2026-09-26",
      13384
+    ],
+    [
+     "2026-09-26",
+     13299
     ]
    ],
    "label": "2018 Toyota Camry",
@@ -18602,6 +19056,10 @@
     [
      "2026-09-26",
      8643
+    ],
+    [
+     "2026-09-26",
+     8500
     ]
    ],
    "label": "2015 Toyota Prius",
@@ -18702,6 +19160,10 @@
     [
      "2026-09-26",
      9995
+    ],
+    [
+     "2026-09-26",
+     8995
     ]
    ],
    "label": "2015 Toyota Camry",
@@ -18898,6 +19360,10 @@
     [
      "2026-09-26",
      11119
+    ],
+    [
+     "2026-09-26",
+     10997
     ]
    ],
    "label": "2019 Honda HR-V",
@@ -18914,6 +19380,10 @@
     [
      "2026-09-26",
      12075
+    ],
+    [
+     "2026-09-26",
+     11990
     ]
    ],
    "label": "2016 Honda Accord",
@@ -18930,6 +19400,10 @@
     [
      "2026-09-26",
      10710
+    ],
+    [
+     "2026-09-26",
+     10588
     ]
    ],
    "label": "2016 Honda CR-V",
@@ -19332,5 +19806,5 @@
    "url": "https://www.autolist.com/honda-civic#vin=19XFC2F87LE023216"
   }
  },
- "last_run": "2026-09-26T01:55:28"
+ "last_run": "2026-09-26T15:56:03"
 }
