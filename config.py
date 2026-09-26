@@ -303,7 +303,7 @@ CRAIGSLIST_TIME_BUDGET = 150      # seconds
 # cost, the run takes a share of what is left divided by the days remaining
 # in the month, so an early-month run can be generous and a late-month one
 # throttles itself. out/api_usage.json is the enforced counter.
-MAX_API_CALLS_PER_MONTH = 800
+MAX_API_CALLS_PER_MONTH = 1000     # auto.dev free tier
 API_MIN_CALLS_PER_RUN = 6         # always enough for one page per group
 # None = no per-run throttle: every run fetches every page, spending as much
 # of the monthly allowance as that takes (~60 calls for a full sweep). Set

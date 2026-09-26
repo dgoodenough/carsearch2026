@@ -42,6 +42,8 @@ BRANDED = ("salvage", "rebuilt", "lemon", "flood", "junk", "reconstruct")
 
 def hard_filter(listing, cfg):
     """Return a rejection reason, or None if the listing survives."""
+    if listing.source == "manual":
+        return None     # typed in by hand: always show it, however it scores
     if listing.price is None:
         return None if listing.source == "craigslist" else "no price"
     if listing.price > cfg.PRICE_MAX:
