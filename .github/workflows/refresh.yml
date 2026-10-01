@@ -1,14 +1,11 @@
 name: Refresh the car board
 
-# Two ways to run:
-#   - on a schedule, twice a day
-#   - the "Run workflow" button, which works from a phone browser
+# Retired: the search is over, so the twice-daily schedule is gone. It only
+# runs if someone presses "Run workflow". To bring the schedule back, restore:
+#   schedule:
+#     - cron: "40 13 * * *"   # 06:40 PDT
+#     - cron: "40 23 * * *"   # 16:40 PDT
 on:
-  schedule:
-    # 06:40 and 16:40 America/Los_Angeles. GitHub cron is UTC and does not
-    # follow DST, so these are PDT (UTC-7); they drift an hour in November.
-    - cron: "40 13 * * *"
-    - cron: "40 23 * * *"
   workflow_dispatch:
 
 # The job commits the refreshed page and the tracking state back to the repo.
